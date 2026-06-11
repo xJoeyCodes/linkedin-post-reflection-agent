@@ -2,7 +2,7 @@
 
 Side Note: For most of my Agentic projects I use IBM Watson and Watsonx models, because....... drumroll........ I have a free trial using their model so I am making use of it and building away (for now)!! 
 
-This repository contains a small agent example that uses an LLM to generate and reflect on LinkedIn posts.
+This repository contains a small agent that uses an LLM to generate and reflect on LinkedIn posts.
 
 Quick start
 
