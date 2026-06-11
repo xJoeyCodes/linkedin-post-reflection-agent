@@ -1,0 +1,6 @@
+langgraph==0.3.31
+langchain-ibm==0.3.10
+langchain==0.3.23
+langchain_community==0.3.21
+pygraphviz==1.14
+python-dotenv>=0.21.0
